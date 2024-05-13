@@ -1,0 +1,59 @@
+body{
+    font-family:monospace;
+}
+#desc{
+    width:100%;
+    background-color:aquamarine;
+    padding:30px;
+    top:0
+}
+#clicks{
+    font-size: 15px;
+}
+#stouf{
+    font-size: 30px;
+}
+#MainBTN{
+    width: 90%;
+    height: 50px;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+#shoppingArea{
+    width: 90%;
+    padding: 20px;
+    background-color:beige;
+    border-radius:20px;
+}
+.descriptionShop{
+    font-size:15px;
+}
+.descriptionCost{
+    font-size:20px;
+}
+.shopName{
+    font-size:25px;
+}
+.amountOfItem{
+    opacity: 0.3;
+    font-size: 50px;
+}
+
+
+
+#adminCommands{
+    background-color:slategray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#acHead{
+    color: white;
+    font-size: 30px;
+}
+#acActivate{
+    width: 45%;
+}
+.space{
+    opacity: 0;
+}
