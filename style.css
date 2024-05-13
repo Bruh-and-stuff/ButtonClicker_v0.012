@@ -57,3 +57,6 @@ body{
 .space{
     opacity: 0;
 }
+#version{
+    bottom: 0;
+}
